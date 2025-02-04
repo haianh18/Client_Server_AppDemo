@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEE2854-B99A-4377-9E87-503C064CEAE0}|Server_ConsoleApp\\Server_ConsoleApp.csproj|d:\\fpt\\prn222\\lab1_product_clientserver\\server\\serverapp\\server_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEE2854-B99A-4377-9E87-503C064CEAE0}|Server_ConsoleApp\\Server_ConsoleApp.csproj|solutionrelative:server_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|d:\\fpt\\prn222\\lab1_product_clientserver\\server\\serverapp\\base\\models\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|solutionrelative:base\\models\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|d:\\fpt\\prn222\\lab1_product_clientserver\\server\\serverapp\\base\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|solutionrelative:base\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|d:\\fpt\\prn222\\lab1_product_clientserver\\server\\serverapp\\base\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|solutionrelative:base\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|d:\\fpt\\prn222\\lab1_product_clientserver\\server\\serverapp\\base\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|solutionrelative:base\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|d:\\fpt\\prn222\\lab1_product_clientserver\\server\\serverapp\\base\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6171BBF0-810D-4D08-A70B-028BB5A4C4A6}|Base\\Base.csproj|solutionrelative:base\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Base\\Models\\ProductDbContext.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "Base\\Models\\ProductDbContext.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA9wDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:11:11.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Base\\Models\\Category.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\Category.cs",
+              "RelativeToolTip": "Base\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:10:40.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Base\\Models\\Product.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\Product.cs",
+              "RelativeToolTip": "Base\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T03:53:10.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestDTO.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\DTO\\RequestDTO.cs",
+              "RelativeDocumentMoniker": "Base\\Models\\DTO\\RequestDTO.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\DTO\\RequestDTO.cs",
+              "RelativeToolTip": "Base\\Models\\DTO\\RequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:25:04.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\DTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "Base\\Models\\DTO\\ResponseDTO.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Base\\Models\\DTO\\ResponseDTO.cs",
+              "RelativeToolTip": "Base\\Models\\DTO\\ResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:24:56.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Server_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Server_ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Server_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Server_ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAADgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:44:40.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\bin\Debug\net8.0\Base.deps.json
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\bin\Debug\net8.0\Base.dll
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\bin\Debug\net8.0\Base.pdb
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\Base.AssemblyInfoInputs.cache
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\Base.AssemblyInfo.cs
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\Base.csproj.CoreCompileInputs.cache
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\Base.dll
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\refint\Base.dll
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\Base.pdb
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\ref\Base.dll
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\bin\Debug\net8.0\Base.runtimeconfig.json
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\Base.csproj.AssemblyReference.cache
+D:\FPT\PRN222\Lab1_Product_ClientServer\Server\ServerApp\Base\obj\Debug\net8.0\Base.genruntimeconfig.cache
