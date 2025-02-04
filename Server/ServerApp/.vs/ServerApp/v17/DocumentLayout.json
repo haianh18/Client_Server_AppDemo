@@ -46,8 +46,7 @@
               "RelativeToolTip": "Base\\Models\\ProductDbContext.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAA9wDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T06:11:11.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T06:11:11.979Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Base\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T06:10:40.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T06:10:40.086Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Base\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:53:10.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T03:53:10.343Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "Base\\Models\\DTO\\RequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:25:04.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:25:04.632Z"
             },
             {
               "$type": "Document",
@@ -98,8 +94,7 @@
               "RelativeToolTip": "Base\\Models\\DTO\\ResponseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:24:56.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:24:56.498Z"
             },
             {
               "$type": "Document",
@@ -109,7 +104,7 @@
               "RelativeDocumentMoniker": "Server_ConsoleApp\\Program.cs",
               "ToolTip": "D:\\FPT\\PRN222\\Lab1_Product_ClientServer\\Server\\ServerApp\\Server_ConsoleApp\\Program.cs",
               "RelativeToolTip": "Server_ConsoleApp\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAADgAAAAdAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwDgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T16:44:40.885Z",
               "EditorCaption": ""

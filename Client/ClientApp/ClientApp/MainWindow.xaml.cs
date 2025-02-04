@@ -31,6 +31,10 @@ namespace ClientApp
 
         private void LoadCategories()
         {
+            if (cbCategory.Items.Count > 0)
+            {
+                cbCategory.Items.Clear();
+            }
             var allCateItem = new ComboBoxItem { Content = "All Products" };
             cbCategory.Items.Add(allCateItem);
             cbCategory.SelectedIndex = 0;

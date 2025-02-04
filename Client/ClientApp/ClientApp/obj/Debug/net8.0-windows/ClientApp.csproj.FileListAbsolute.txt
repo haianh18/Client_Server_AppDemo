@@ -90,3 +90,4 @@ D:\FPT\PRN222\Lab1_Product_ClientServer\Client\ClientApp\ClientApp\obj\Debug\net
 D:\FPT\PRN222\Lab1_Product_ClientServer\Client\ClientApp\ClientApp\obj\Debug\net8.0-windows\AddWindow.baml
 D:\FPT\PRN222\Lab1_Product_ClientServer\Client\ClientApp\ClientApp\obj\Debug\net8.0-windows\EditWindow.g.cs
 D:\FPT\PRN222\Lab1_Product_ClientServer\Client\ClientApp\ClientApp\obj\Debug\net8.0-windows\EditWindow.baml
+D:\FPT\PRN222\Lab1_Product_ClientServer\Client\ClientApp\ClientApp\obj\Debug\net8.0-windows\ClientApp.sourcelink.json
